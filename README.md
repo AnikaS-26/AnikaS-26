@@ -8,7 +8,7 @@ Key projects:
   
 - **ESG scores & profitability:** https://github.com/AnikaS-26/esg-profitability-analysis
 
-R-based cleaning, winsorization, scaling, visualization, and regression to study the relationship between ESG scores and corporate profit margins 
+  R-based cleaning, winsorization, scaling, visualization, and regression to study the relationship between ESG scores and corporate profit margins 
 
 - **Masters thesis- Green Product Consumption:** Randomized experiment in Qualtrics with R analysis of how eco-labels and cognitive biases shape perceived quality and willingness to pay for green products
 
