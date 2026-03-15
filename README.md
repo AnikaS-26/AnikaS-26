@@ -2,9 +2,11 @@
 I am an Applied Economics graduate focused on turning data into clear, actionable insights for business and policy decisions. I work primarily with **R**, **SQL**, **Python**, and **Tableau** for econometric modeling, predictive analytics, and dashboarding.
 
 Key projects:
-- Telco customer churn: End-to-end churn modeling using SQL data engineering, R (logistic regression and random forest), and Tableau dashboards to surface churn drivers and revenue at risk  
-- ESG scores & profitability: R-based cleaning, winsorization, scaling, visualization, and regression to study the relationship between ESG scores and corporate profit margins  
-- Masters thesis – green product consumption: Randomized experiment in Qualtrics with R analysis of how eco-labels and cognitive biases shape perceived quality and willingness to pay for green products
+- **Telco customer churn:** https://github.com/AnikaS-26/telco-customer-churn-analysis
+  End-to-end churn modeling using SQL data engineering, R (logistic regression and random forest), and Tableau dashboards to surface churn drivers and revenue at risk  
+- **ESG scores & profitability:** https://github.com/AnikaS-26/esg-profitability-analysis
+  R-based cleaning, winsorization, scaling, visualization, and regression to study the relationship between ESG scores and corporate profit margins  
+- **Masters thesis- Green Product Consumption:** Randomized experiment in Qualtrics with R analysis of how eco-labels and cognitive biases shape perceived quality and willingness to pay for green products
 
 <!--
 **AnikaS-26/AnikaS-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
